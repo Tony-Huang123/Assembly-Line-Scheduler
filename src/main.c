@@ -7,7 +7,7 @@
 #define EQUIPMENTAMOUNT 8
 #define MAXORDER 200
 
-
+//i am handsome
 struct Order{
 	int num;
 	int startDate;
